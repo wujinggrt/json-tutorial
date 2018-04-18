@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/WuJing/Desktop/json-tutorial/tutorial01/CMakeLists.txt
+  CMake does not need to re-run because G:/Workspace/LearnProgramLanguage/json-tutorial/build/CMakeFiles/generate.stamp is up-to-date.
+  leptjson.c
+  leptjson.vcxproj -> G:\Workspace\LearnProgramLanguage\json-tutorial\build\Debug\leptjson.lib
